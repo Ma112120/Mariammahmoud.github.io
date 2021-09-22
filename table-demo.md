@@ -20,8 +20,7 @@ gosling:
   - cries a lot
   - not ryan reynolds
 ---
-
-![](img/ryan-v-ryan.jpg)   
+![](assets/img/ryan-v-ryan.jpg)
 
 ## Lorem Ipsum
 
