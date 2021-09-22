@@ -234,24 +234,24 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 
-.gs-section-01 h3 { 
+ .gs-section-01 h3 { 
      color: red }
 
-.gs-section-01 p {
+ .gs-section-01 p {
      font-size: 35px;
 }
  .gs-section-02 h3 { 
      color: green }
 
-.gs-section-02 p {
+ .gs-section-02 p {
      font-size: 30px;
      line-height: 1.8;
 }   
      
-.gs-section-03 h3 { 
+ .gs-section-03 h3 { 
      color: blue }
 
-.gs-section-03 p {
+ .gs-section-03 p {
      font-size: 30px;
      line-height: 1.5;
 }     
